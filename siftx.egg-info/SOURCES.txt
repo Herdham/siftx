@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+siftx/__init__.py
+siftx/cli.py
+siftx/files.py
+siftx/highlight.py
+siftx/output.py
+siftx/search.py
+siftx.egg-info/PKG-INFO
+siftx.egg-info/SOURCES.txt
+siftx.egg-info/dependency_links.txt
+siftx.egg-info/entry_points.txt
+siftx.egg-info/top_level.txt
+tests/test_search.py
