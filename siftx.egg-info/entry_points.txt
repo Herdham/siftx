@@ -1,2 +1,0 @@
-[console_scripts]
-siftx = siftx.cli:main
